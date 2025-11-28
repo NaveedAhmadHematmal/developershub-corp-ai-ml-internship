@@ -1,2 +1,4 @@
 # developershub-corp-ai-ml-internship
-This repository contains assignment codes for AI/ML internship in Developershub Corporation
+
+all information about datasets, models used and findings explained in each notebook for each task.
+so no need to duplicate those information here again.
